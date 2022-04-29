@@ -1,0 +1,8 @@
+As React-router has updated, we need to do an extra step to be able to redirect our application.
+The we in which we redirect has changed as in v6 of react-router, the old props have changed to hooks.
+As we cannot use hooks in a class component, we need to 'wrap' our components. 
+This is known as wrapping, we can wrap a component to create a higher order component. 
+Check: https://reactjs.org/docs/higher-order-components.html
+1. in your src directory create a directory called wrapper
+2. in the directory create a file called util.js
+3. open util.js

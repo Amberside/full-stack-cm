@@ -1,0 +1,3 @@
+Using Bcrypt we can now authorise a user.
+This will help when we want to log someone in.
+1. Open /src/server.js

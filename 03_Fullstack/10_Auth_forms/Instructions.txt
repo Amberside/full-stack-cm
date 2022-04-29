@@ -1,0 +1,7 @@
+Now we have create our Auth routes and fixed our database model,
+we can now create our login and register forms for our client side.
+1. open src/components folder clientside.
+2. create an auth folder.
+3. in the auth folder create Login.js
+4. in the auth folder create Register.js
+5. open Login.js

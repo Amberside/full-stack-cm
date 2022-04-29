@@ -1,0 +1,3 @@
+We will now create our actions file.
+1. In the actions folder create contactActions.js
+2. open contactActions.js

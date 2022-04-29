@@ -1,0 +1,1 @@
+1. Open compontents/contacts/AddContact.js

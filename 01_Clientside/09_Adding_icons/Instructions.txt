@@ -1,0 +1,5 @@
+1. To add icons into our app we can install a module called react-icons
+   npm i react-icons
+   https://www.npmjs.com/package/react-icons
+   https://react-icons.github.io/react-icons
+2. Open Header.js

@@ -1,0 +1,5 @@
+Since we change our database model for Contacts we
+need to update those changes in our code.
+We will start with our serverside code, and then switch to the 
+clientside code.
+1. Open src/server.js

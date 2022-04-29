@@ -1,0 +1,5 @@
+Doing state in the way we have done is ok for small applications, but it can be messy for larger scale applications.
+This is where we need some state management.
+The first we will look at is the context API.
+1. In the src folder create context.js
+2. Open context.js

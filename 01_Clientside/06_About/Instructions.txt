@@ -1,0 +1,2 @@
+1. Create components/pages/About.js
+2. Open About.js

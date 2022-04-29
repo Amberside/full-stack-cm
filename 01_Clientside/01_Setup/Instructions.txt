@@ -1,0 +1,5 @@
+SETUP
+1. Create a new react app: create-react-app client
+2. Install Bootstrap:npm i Bootstrap
+3. Now we need to add bootstrap to our app 
+4. Open src/index.js

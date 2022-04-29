@@ -1,0 +1,8 @@
+1. Open App.js
+2. Pass through a prop to the Header component
+2. Open components/layout/header
+   contacts
+   layout
+   pages
+3. Create the file header.js in the layout folder
+4. Open components/layout/header

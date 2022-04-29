@@ -1,0 +1,7 @@
+Now that we have our user model we need to use it.
+We need to create routes for the following:
+Register a new user
+Login and athenticate a user.
+We will look at the authentication a little later, 
+we will just set up the routes a the moment.
+1. open src/server.js

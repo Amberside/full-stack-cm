@@ -1,0 +1,14 @@
+We should add in client-side validation for forms.
+This can be done in our AddContact and EditContact components.
+We can place our code directly in our components or 
+create validation functions that will return values.
+Bootstrap has some classes we can use to change the UI when people 
+input incorrect values.
+We need to install a new package to help us.
+this package is called classnames. 
+It will allow us to change classnames due to some logic.
+https://www.npmjs.com/package/classnames
+https://github.com/JedWatson/classnames#readme
+1. install classnames
+   npm i classnames
+2. Open AddContact.js

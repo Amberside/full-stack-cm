@@ -1,0 +1,22 @@
+Now we can look at adding in our database.
+For this API we will use SQLite and the sequelize package.
+For this to work we need to install some new packages.
+The packages we are using are sequelize, sqlite3
+https://www.npmjs.com/package/sequelize
+https://sequelize.org/v6/
+https://www.npmjs.com/package/sqlite3
+https://github.com/mapbox/node-sqlite3
+1. npm i sequelize
+2. npm i sqlite3
+3. create a models folder in the src folder
+4. create index.js in the models folder
+5. open index.js
+
+Note: please look at https://sequelize.org/v6/manual/getting-started.html 
+if you wish to use another database other then sqlite.
+Databases that are supported are:
+Postgress, MySql, Mariadb, Sqlite, tedious (for microsoft SQL server)
+If you do change databases please double check the options you need to connect to the database.
+For example with mysql, we do not need the storage option, but will need a port option to let the sever know which port the database uses for connections.
+A full list of options can be found at:
+https://sequelize.org/v6/class/src/sequelize.js~Sequelize.html#instance-constructor-constructor

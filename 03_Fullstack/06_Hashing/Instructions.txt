@@ -1,0 +1,7 @@
+Now we can look at how to store users data.
+the biggest problem we have here is how to store password
+Luckily we have a module to help us with that.
+That module is called Bcyrpt.
+https://www.npmjs.com/package/bcrypt
+1. in your server directory run npm i bcrypt
+2. Open /src/server.js

@@ -1,0 +1,14 @@
+{
+  "name": "contact_manager",
+  "version": "1.0.0",
+  "description": "Contact manager back-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amberle Seidl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

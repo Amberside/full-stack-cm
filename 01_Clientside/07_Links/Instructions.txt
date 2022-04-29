@@ -1,0 +1,5 @@
+1. In order to use links and route pages in react we need to use a new package.
+   Install react-router-dom
+   npm i react-router-dom
+   https://www.npmjs.com/package/react-router-dom
+2. Open App.js

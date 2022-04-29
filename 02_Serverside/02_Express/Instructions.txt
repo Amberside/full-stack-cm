@@ -1,0 +1,7 @@
+1. We are using the express package to build our server.
+2. Install express using npm i express
+   https://expressjs.com/en/starter/installing.html
+3. Check you have express in your package.json
+4. Create a src folder in the server folder
+5. Create server.js
+6. Open server.js

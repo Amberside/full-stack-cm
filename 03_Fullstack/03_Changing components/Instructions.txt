@@ -1,0 +1,10 @@
+Now that we have set up our reducers, actions and store,
+We need to add redux to our components.
+To do this we will first rename all the components in our contacts folder 
+to a .bak on the end.
+1. rename all conctact components to .bak
+2. create new AddContact.js
+3. create new EditContact.js
+4. create new Contacts.js
+5. create new SingleContact.js
+6. Open Contacts.js

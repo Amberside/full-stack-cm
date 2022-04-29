@@ -1,0 +1,5 @@
+1. Create a new server directory
+2. cd into the server directory 
+3. initialise the new node project with npm init
+4. Check you have a package.json file
+5. Done

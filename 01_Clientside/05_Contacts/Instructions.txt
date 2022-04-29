@@ -1,0 +1,2 @@
+1. Create components/contacts/Contacts.js
+2. Open Contacts.js

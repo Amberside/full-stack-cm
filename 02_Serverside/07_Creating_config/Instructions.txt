@@ -1,0 +1,5 @@
+We will know create a config file to hold all 
+the options or configurations for our server.
+1. Inside of the src folder create a config folder.
+2. Inside the config folder, create config.js
+3. open config.js

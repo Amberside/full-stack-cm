@@ -1,0 +1,6 @@
+We have fixed our front end, now we will look at adding in a login and register
+system. This will add in authentication and authorization system to our 
+server. There are a few things we need to do here.
+We first need to create a place to store the user information, for this
+we will create a new model.
+1. Open server/src/models/index.js

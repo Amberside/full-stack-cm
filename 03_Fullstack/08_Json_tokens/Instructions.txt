@@ -1,0 +1,6 @@
+So how can we let our front end know who is accessing the site?
+How can the user let the system know they have access?
+We can use another package for this, known as JSONwebtoken
+https://www.npmjs.com/package/jsonwebtoken
+1. in the server directory npm i jsonwebtoken
+2. open src/server.js

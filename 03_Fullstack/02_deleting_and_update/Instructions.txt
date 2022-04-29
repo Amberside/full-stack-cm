@@ -1,0 +1,20 @@
+In the previous step we connectted the front end and back end.
+Our application should be showing all data in our contacts table 
+and be able to save new contacts.
+We also completed the following routes:
+/api/contact/add
+/api/contacts
+
+We need to complete the following routes:
+/api/contact/:id (get and delete)
+/api/contact/edit/:id (put)
+We will start with the delete route.
+1. Open server/src/server.js
+
+Note: you can always backup your database before doing any testing of your code.
+Just copy the file to another directory or make a copy of the file and rename it.
+
+After finishing all these steps, 
+our application should cover all the above end points.
+
+The next thing we are doing is to rework our front end and add in redux

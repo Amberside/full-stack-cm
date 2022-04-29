@@ -1,0 +1,22 @@
+Now we can look at connecting our server to our front end.
+To do this we create a folder called contact_manager
+inside of contact_manager we place our client-side code 
+in a folder called client. 
+And we place our server side code in a folder called server.
+1. Create the contact_manager folder
+2. create the client folder and move your client-side code into it.
+3. Create the sever folder and move your server-side code into it.
+
+Note: Remember to install the node packages for client-side and 
+server-side applications as needed.
+in the client folder run npm i to install all the packages you need
+in the server folder run npm i to install all the packages you need.
+Remember this list is in our package.json files.
+We can remove uuid from our client project as we are no longer using it.
+to uninstall a package, it is npm uninstall <package_name>
+
+4. open the client package.json file.
+5. In this file we are adding the following code:
+  "proxy": "http://localhost:5000",
+
+6. open client/src/context.js

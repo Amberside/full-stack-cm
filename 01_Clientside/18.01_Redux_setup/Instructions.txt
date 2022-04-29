@@ -1,0 +1,35 @@
+Redux is a state management container for React.
+We use it as single source of truth for our react applicaitons. 
+This means that we have one copy of our state for our whole application.
+We can leverage this anywhere within our application.
+To install redux for our applicaiton we need to include the following packages.
+npm i redux
+https://redux.js.org/
+https://www.npmjs.com/package/redux
+npm i react-redux
+https://www.npmjs.com/package/react-redux
+npm i redux-thunk
+https://www.npmjs.com/package/redux-thunk
+npm i @redux-devtools/extension
+https://www.npmjs.com/package/@redux-devtools/extension
+
+Redux uses actions created by the UI to dispatch to our reducers 
+which will then update our state.
+To begin we need to create the following:
+in our src folder we need to create:
+1. an actions folder.
+  This folder will hold our actions
+2. a reducers folder
+  This folder will hold our reducers
+in the src directory we need to create 
+3.  a store.js
+The store is what holds our state.
+
+4. open store.js
+
+
+Up until now, we have stored our actions inside our components.
+Redux moves all of these into a seprate file. 
+This means that all our actions are in the one spot and do not need written 
+multiple times.
+This is one way can optimise our code. (It is also called refactoring)

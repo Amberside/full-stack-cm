@@ -1,0 +1,2 @@
+1. Create components/contacts/SingleContact.js
+2. open SingleContact.js

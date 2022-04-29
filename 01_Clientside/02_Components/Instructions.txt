@@ -1,0 +1,8 @@
+SETUP
+1. Under the src folder create a folder components
+2. Under the components folder crate the following folders:
+   contacts
+   layout
+   pages
+3. Create the file header.js in the layout folder
+4. Open components/layout/header

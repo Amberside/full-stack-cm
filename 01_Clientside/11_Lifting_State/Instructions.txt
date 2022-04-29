@@ -1,0 +1,5 @@
+So far we can delete contacts, but we cannot add or edit contacts.
+This is because our state is stored in the Contacts component.
+We need to lift this state to our app.js.
+This is called Lifing Up State. (moving it to a parent component.)
+1. Open Contacts.js
